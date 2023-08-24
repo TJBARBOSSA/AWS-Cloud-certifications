@@ -1,5 +1,3 @@
-![UC-560b936c-f77e-43f6-96ec-5927e4a27c7e](https://github.com/TJBARBOSSA/Certifications/assets/106999424/6a9ccbdc-5b96-4bf7-a2b0-5114ab9c2b43)https://www.credly.com/badges/ae35ab1a-f636-4dd0-a431-0da8d4a0b99c/public_url
-
 ![aws-academy-graduate-aws-academy-introduction-to-cloud-semester-1](https://github.com/TJBARBOSSA/AWS-Cloud-certifications/assets/106999424/6d49ef3a-93e2-4962-9e95-36c190bdb78e)
 
 
